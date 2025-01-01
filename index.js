@@ -9,7 +9,7 @@ const textthree = "";
 const textfour = "";
 const type = "STREAMING";
 const pictureGede = [
-"https://media.discordapp.net/attachments/1221090089514434620/1319635830477951006/Dc_Gif.gif?ex=676e9723&is=676d45a3&hm=6d14477528d055df59ab1a6c5802bf8213cf886b5ba0ad575091bf7aa4788e15&=",
+"https://media.discordapp.net/attachments/1221090089514434620/1319635830477951006/Dc_Gif.gif?ex=6775d763&is=677485e3&hm=837a3065fa249b2a63846ea84a0c2f4228384476c7f8f0f2366210cf7b819556&=",
 
   
                          ];
