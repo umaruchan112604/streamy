@@ -9,8 +9,7 @@ const textthree = "";
 const textfour = "";
 const type = "STREAMING";
 const pictureGede = [
-"https://media.discordapp.net/attachments/1221090089514434620/1250873130633789450/B4D5CB41-90D1-47F9-9803-65FC1AC8EBB7.gif?ex=6784aca2&is=67835b22&hm=82a501c71232e9dbadab7ad11ce83f9e715f794bece20b3b2bdfb2b1cb61793e&=",
-
+"https://cdn.discordapp.com/attachments/1221090089514434620/1221097207080423585/nice-hamatora.gif?ex=6669aae5&is=66685965&hm=c12802442aa7ead3138a337bd02f813e916745dce60da0ad949e2dc7f28c1a3e&",
   
                          ];
 const smallpictureGede = [
@@ -20,35 +19,36 @@ const smallpictureGede = [
 const nameButtonone = "";
 let linkButtonone = "";
 
-const xxxx = ['10 Things I Hate You'];
+const xxxx = ['May I Ask (Luke Chiang)'];
 
 const randomTexts = [
-    '🖤🤍I Hate You🖤🤍'
+  '🖤🤍Come Talk to me🖤🤍'
 
 
 ];
 
 const randomtext3 = [
   
-  'Youre selfish',
-  'Youre jaded',
-  'The dumbest Girl Ive dated',
-  'Talk a big game til youre naked',
-  'Only six seconds, and I had to fake it',
-  'Youre toxic',
-  'Cant trust you',
-  'You still got mommy issues',
-  'Two years of your bullshit, I cant undo', 
-  'I hate the fact that you made me love you',
-
+  '𝓜𝓪𝔂 𝓘 𝓪𝓼𝓴 𝔂𝓸𝓾 𝓱𝓸𝔀 𝔂𝓸𝓾𝓿𝓮 𝓫𝓮𝓮𝓷',
+  '𝓦𝓸𝓾𝓵𝓭 𝓘 𝓱𝓪𝓿𝓮 𝓽𝓱𝓮 𝔀𝓸𝓻𝓭𝓼 𝓽𝓸 𝓼𝓪𝔂',
+  '𝓓𝓸𝓷𝓽 𝔂𝓸𝓾 𝓴𝓷𝓸𝔀',
+  '𝓨𝓸𝓾 𝓶𝓪𝓴𝓮 𝓶𝓮 𝓷𝓮𝓻𝓿𝓸𝓾𝓼 𝓼𝓽𝓲𝓵𝓵',
+  '𝓨𝓸𝓾 𝓹𝓾𝓵𝓵 𝓶𝔂 𝓽𝓱𝓸𝓾𝓰𝓱𝓽𝓼 𝓪𝓹𝓪𝓻𝓽',
+  '𝓣𝓱𝓸𝓾𝓰𝓱 𝓘𝓿𝓮 𝓫𝓮𝓮𝓷 𝓽𝓻𝔂𝓷𝓪 𝓰𝓮𝓽 𝔂𝓸𝓾 𝓸𝓯𝓯 𝓶𝔂 𝓶𝓲𝓷𝓭',
+  '𝓖𝓲𝓿𝓮 𝓶𝓮 𝓽𝓲𝓶𝓮',
+  '𝓒𝓪𝓾𝓼𝓮 𝓲𝓽 𝓼𝓽𝓲𝓵𝓵 𝓫𝓾𝓻𝓷𝓼 𝓶𝔂 𝓵𝓲𝓹𝓼',
+  '𝓣𝓸 𝓼𝓪𝔂 𝔂𝓸𝓾𝓻 𝓷𝓪𝓶𝓮 𝓸𝓾𝓽 𝓵𝓸𝓾𝓭, 𝓶𝔂 𝓵𝓸𝓿𝓮',
+  '𝓘𝓽𝓼 𝓳𝓾𝓼𝓽 𝓶𝔂 𝓷𝓪𝓽𝓾𝓻𝓪𝓵 𝓻𝓮𝓪𝓬𝓽𝓲𝓸𝓷 𝓽𝓸 𝔂𝓸𝓾',
+  '𝓜𝓪𝓴𝓲𝓷𝓰 𝓶𝓮 𝓯𝓮𝓮𝓵 𝓵𝓲𝓴𝓮 𝓘𝓿𝓮 𝓵𝓸𝓼𝓽 𝓼𝓪𝓷𝓲𝓽𝔂',
+  '𝓐𝓷𝓭 𝓘 𝓬𝓪𝓷𝓽 𝓱𝓮𝓵𝓹 𝓫𝓾𝓽 𝓽𝓸 𝓶𝓲𝓼𝓼 𝔂𝓸𝓾',
+  '𝓢𝓸 𝓶𝓪𝓷𝔂 𝓽𝓱𝓲𝓷𝓰𝓼',
+  '𝓣𝓱𝓸𝓾𝓰𝓱 𝓘 𝓴𝓷𝓸𝔀 𝓽𝓱𝓮𝓻𝓮𝓼 𝓷𝓮𝓿𝓮𝓻 𝓪 𝓬𝓱𝓪𝓷𝓬𝓮',
 
 
 ];
 
 const randomtext4 = [
- '🤍★☆★☆★🖤', 
- '🖤☆★☆★☆🤍'
-
+  '★☆★☆★☆★', '☆★☆★☆★☆'
 
 
 ];
@@ -56,7 +56,7 @@ const randomtext4 = [
 const randomtext5 = [];
 
 const randomLinks = [
-  "https://open.spotify.com/track/7I4XALvCb2VEmOCtGUe5uY?si=ec85bf3adaf54389",
+  "https://matias.me/nsfw/",
 ];
 
 
@@ -69,20 +69,15 @@ function getRandomElement(arr) {
 }
 function getTimestampsForDay(year, month, day) {
   const date = new Date(Date.UTC(year, month, day));
-  date.setHours(date.getHours() + 8);
+  date.setHours(date.getHours() + 7);
   date.setUTCHours(0, 0, 0, 0);
   const timestampMidnight = date.getTime();
-  date.setUTCHours(11, 59, 59, 999);
+  date.setUTCHours(23, 59, 59, 999);
   const timestampEndOfDay = date.getTime();
-  const ampmMidnight = date.getHours() < 12 ? 'AM' : 'PM';
-  const ampmEndOfDay = date.getHours() < 12 ? 'AM' : 'PM';
-
 
   return {
     timestampMidnight,
-    timestampEndOfDay,
-    ampmMidnight,
-    ampmEndOfDay
+    timestampEndOfDay
   };
 }
 
@@ -104,7 +99,7 @@ bot.on('ready', async () => {
   setInterval(() => {
     const date = new Date();
     const datee = date.getDate();
-    const hours = (date.getHours() + 8) % 24;
+    const hours = (date.getHours() + 7) % 24;
     const minutes = date.getMinutes();
     const months = date.getMonth();
     const year = date.getFullYear();
@@ -128,7 +123,7 @@ bot.on('ready', async () => {
   const roundwNumber = roundToDecimal(getWRandomNumber());
     const month = addZero(months+1);
     const dates = addZero(datee)
-    const resultthree = `〈 ${addZero(hours)}:${addZero(minutes)} ${hours < 12 ? 'AM' : 'PM'} 〉`;
+    const resultthree = "Badminton"
 
 
     // Randomize the link and text for the button
@@ -140,19 +135,18 @@ bot.on('ready', async () => {
     const randomButtonText4 = getRandomElement(randomtext4);
     const randomButtonText5 = getRandomElement(randomtext5);
     linkButtonone = getRandomElement(randomLinks);
-    const detailsText = `${randomButtonText3} - ${resultthree}`;
     const pr = new RichPresence()  
       .setName(`CRAMMING`)
-      .setURL('https://www.twitch.tv/mystiqu3x')
+      .setURL('https://www.twitch.tv/sachihirokun')
       .setType(`${type}`.toUpperCase())
-      .setApplicationId("1159127696064905256")
+      .setApplicationId("1159457353029140521")
       .setAssetsLargeImage(`${rdpictureGede}`)
       .setAssetsSmallImage(`${rdsmallpictureGede}`)
       .setAssetsLargeText(`
 🌡${roundedNumber} °C ⋆ 🍃 ${roundwNumber} m/s`)
       .setAssetsSmallText(`ping: ${bot.ws.ping}ms`)
       .setState(`: ${randomXX}`)
-      .setDetails(detailsText)
+      .setDetails(`${randomButtonText3}`)
       .setStartTimestamp(timestamps.timestampMidnight)
       .setEndTimestamp(timestamps.timestampEndOfDay)
       .addButton(`${randomButtonText}`, `${linkButtonone}`)
